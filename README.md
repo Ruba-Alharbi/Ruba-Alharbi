@@ -3,7 +3,7 @@
 
 **I'm a senior IS student 👩🏻‍💻 at** <a href="https://uqu.edu.sa/en">UMM AL-QURA UNIVERSITY</a>
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working on **Personal Projects**
 - 🌱 I’m currently learning **UI,Flutter**
 - 💬 Ask me about **Flutter, UI**
 - 📫 How to reach me: 
