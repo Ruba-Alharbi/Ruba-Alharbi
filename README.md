@@ -4,7 +4,7 @@
 **I'm an IS graduated 👩🏻‍💻 from** <a href="https://uqu.edu.sa/en">UMM AL-QURA UNIVERSITY</a>
 
 - 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **Flutter,UI**
+- 🌱 I’m currently learning **Swift and SwiftUI**
 - 💬 Ask me about **Flutter, UI**
 - 📫 How to reach me: 
 
