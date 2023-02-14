@@ -4,8 +4,7 @@
 **I'm an IS graduated 👩🏻‍💻 from** <a href="https://uqu.edu.sa/en">UMM AL-QURA UNIVERSITY</a>
 
 - 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **Swift and SwiftUI**
-- 💬 Ask me about **Flutter, UI**
+- 💬 Ask me about **Outsystems, UI**
 - 📫 How to reach me: 
 
 <a href="mailto:ruba.yahya01@gmail.com">
@@ -21,5 +20,6 @@
 <code><img title="Flutter" alt="Flutter" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*5-aoK8IBmXve5whBQM90GA.png&f=1&nofb=1" /></code>
 <code><img title="VScode" alt="VScode" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" /></code>
 <code><img title="XD" alt="XD" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fadobexdplatform.com%2Fplugin-docs%2Fimages%2Fxd-logo.png&f=1&nofb=1" /></code>
+<code><img title="Outsystems" alt="Outsystems" width="40px" src="https://jobs.ciklum.com/wp-content/uploads/2018/07/outsystems_logo.png" /></code>
 </br></br>
 
