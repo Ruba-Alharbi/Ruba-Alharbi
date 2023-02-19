@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hi%20👋,%20I'm%20Ruba%20Yahya&height=250&fontSize=60&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hi%20👋,%20I'm%20Ruba%20Alharbi&height=250&fontSize=60&textBg=false)
 
 
 **I'm an IS graduated 👩🏻‍💻 from** <a href="https://uqu.edu.sa/en">UMM AL-QURA UNIVERSITY</a>
