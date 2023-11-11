@@ -19,5 +19,6 @@
 <code><img title="Excel" alt="Excel" width="50px" src="https://logos-marques.com/wp-content/uploads/2020/09/Excel-logo.png" /></code>
 <code><img title="Outsystems" alt="Outsystems" width="40px" src="https://jobs.ciklum.com/wp-content/uploads/2018/07/outsystems_logo.png" /></code>
 <code><img title="MySQL" alt="MySQL" width="40px" src="https://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" /></code>
+<code><img title="Tableau" alt="Tableau" width="80px" src="https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png" /></code>
 </br></br>
 
