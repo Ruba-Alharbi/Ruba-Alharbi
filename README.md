@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Hi%20👋,%20I'm%20Ruba%20Alharbi&height=250&fontSize=60&textBg=false)
 
 
-**An IS graduate 👩🏻‍💻 from** <a href="https://uqu.edu.sa/en">UMM AL-QURA UNIVERSITY</a>, interested in data analysis and AI tecnologies
+**An IS graduate 👩🏻‍💻 from** <a href="https://uqu.edu.sa/en">UMM AL-QURA UNIVERSITY</a>, interested in data analysis
 
 - 🔭 I’m currently working on **Personal Projects**
 - 💬 Ask me about **Outsystems, Data Analysis**
