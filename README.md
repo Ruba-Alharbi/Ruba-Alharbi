@@ -7,7 +7,7 @@
 - 💬 Ask me about **Outsystems, Data Analysis**
 - 📫 How to reach me: 
 
-<a href="mailto:ruba.yahya01@gmail.com">
+<a href="mailto:ruba.ya.alharbi@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ruba.yahya01@gmail.com&color=white&style=flat&logo=gmail" />
 </a>
 
